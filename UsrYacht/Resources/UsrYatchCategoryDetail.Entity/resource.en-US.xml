@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yatch Category Detail" />
+			<Item Name="Columns.UsrCategory.Caption" Value="Category" />
+			<Item Name="Columns.UsrParentYatch.Caption" Value="Parent Yatch" />
+		</Items>
+	</Group>
+</Resources>

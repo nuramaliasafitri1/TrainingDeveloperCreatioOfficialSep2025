@@ -422,6 +422,27 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 			},
 			{
 				"operation": "insert",
+				"name": "MultiSelectYactCategory",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 7,
+						"rowSpan": 1
+					},
+					"type": "crt.MultiSelect",
+					"label": "#ResourceString(MultiSelectYactCategory_label)#",
+					"recordId": "",
+					"recordRelationColumnName": "",
+					"selectSchemaName": "UsrYatchCategoryDetail",
+					"selectColumnName": "UsrCategory"
+				},
+				"parentName": "GeneralInfoTabContainer",
+				"propertyName": "items",
+				"index": 12
+			},
+			{
+				"operation": "insert",
 				"name": "YatchRentalExpansionPanel",
 				"values": {
 					"type": "crt.ExpansionPanel",

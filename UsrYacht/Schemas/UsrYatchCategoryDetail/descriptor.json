@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e242b24-6f0f-4ad8-8a69-2bfc202c51ef",
+    "Name": "UsrYatchCategoryDetail",
+    "ModifiedOnUtc": "\/Date(1758557890000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Yatch Category Detail",
+    "DependsOn": []
+  }
+}
