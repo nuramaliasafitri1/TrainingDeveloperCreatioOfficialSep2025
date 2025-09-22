@@ -422,7 +422,7 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 			},
 			{
 				"operation": "insert",
-				"name": "MultiSelectYactCategory",
+				"name": "MultiSelectYachtCategory",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -431,11 +431,16 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 						"rowSpan": 1
 					},
 					"type": "crt.MultiSelect",
-					"label": "#ResourceString(MultiSelectYactCategory_label)#",
-					"recordId": "",
-					"recordRelationColumnName": "",
+					"label": "#ResourceString(MultiSelectYachtCategory_label)#",
+					"recordId": "$Id",
+					"recordRelationColumnName": "UsrParentYatch",
 					"selectSchemaName": "UsrYatchCategoryDetail",
-					"selectColumnName": "UsrCategory"
+					"selectColumnName": "UsrCategory",
+					"visible": true,
+					"labelPosition": "auto",
+					"placeholder": "",
+					"tooltip": "",
+					"isModalView": true
 				},
 				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",

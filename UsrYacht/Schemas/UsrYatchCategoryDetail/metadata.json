@@ -25,10 +25,11 @@
   "A4": "0e242b24-6f0f-4ad8-8a69-2bfc202c51ef",
   "A5": "e4b064be-5853-4034-b2ee-1bd4db2c6cd5",
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
-  "S4": "229dbcc6-6de6-4402-a374-699894a925ac",
+  "S4": "920db666-d22f-4304-a86a-ed94bcb1a79d",
   "E6": true,
   "E20": true,
-  "E17": "UsrParentYatchId"
+  "E17": "UsrParentYatchId",
+  "E18": "UsrParentYatchUsrName"
 }
 + MetaData.Schema.D2 {
   "UId": "f4e30143-efe6-f0b5-15a3-da09cef78eac",
