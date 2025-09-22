@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AccountCategory.Caption" Value="Kategori" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Logo akun" />
+			<Item Name="Columns.AddressType.Caption" Value="Tipe alamat" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Pendapatan tahunan" />
+			<Item Name="Columns.City.Caption" Value="Kota" />
+			<Item Name="Columns.Country.Caption" Value="Negara" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Dibuat oleh" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="Nomor karyawan" />
+			<Item Name="Columns.Industry.Caption" Value="Industri" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Dimodifikasi oleh" />
+			<Item Name="Columns.Owner.Caption" Value="Pemilik" />
+			<Item Name="Columns.Ownership.Caption" Value="Entitas bisnis" />
+			<Item Name="Columns.Parent.Caption" Value="Akun induk" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Kontak utama" />
+			<Item Name="Columns.Region.Caption" Value="Negara/provinsi" />
+			<Item Name="Columns.Type.Caption" Value="Tipe" />
+		</Items>
+	</Group>
+</Resources>
