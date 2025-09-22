@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yatch Rental" />
+			<Item Name="Columns.UsrAmount.Caption" Value="Total Amount, USD" />
+			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCustomer.Caption" Value="Customer" />
+			<Item Name="Columns.UsrEndDate.Caption" Value="End Date" />
+			<Item Name="Columns.UsrParentYatch.Caption" Value="Parent yatch" />
+			<Item Name="Columns.UsrStartDate.Caption" Value="Start Date" />
+		</Items>
+	</Group>
+</Resources>

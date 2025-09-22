@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "3ebb200b-2659-41f0-8c10-7e430f241cec",
+      "A2": "UsrYatchRentalRelatedPage",
+      "A5": "e4b064be-5853-4034-b2ee-1bd4db2c6cd5",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "714416d8-a351-4740-b642-44eff39027f4",
+      "B8": "8.3.0.3074",
+      "AD1": "229dbcc6-6de6-4402-a374-699894a925ac",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "c8b24900-a209-4eca-a131-de2c692d80f6",
+      "PageSchemaUId": "18586035-8626-46d9-a6b4-7392648d06c3",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

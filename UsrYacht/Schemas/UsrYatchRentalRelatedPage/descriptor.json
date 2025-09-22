@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ebb200b-2659-41f0-8c10-7e430f241cec",
+    "Name": "UsrYatchRentalRelatedPage",
+    "ModifiedOnUtc": "\/Date(1758554298000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yatch Rental (Page settings)",
+    "DependsOn": []
+  }
+}
