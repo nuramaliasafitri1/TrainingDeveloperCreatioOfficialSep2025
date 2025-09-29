@@ -24,6 +24,7 @@
 			<Item Name="LocalizableStrings.PassangersNumberCannotBeLess.Value" Value="Passangers Number Cannot Be Less than 1" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Proce cannot be less than 100 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push Me!" />
+			<Item Name="LocalizableStrings.RunCalcAvgTicketProcessMenuItem_caption.Value" Value="Run Calc Average Ticket Price Process" />
 			<Item Name="LocalizableStrings.RunMaxPriceWebServicesMenuItem_caption.Value" Value="Run Max Price Web Services " />
 			<Item Name="LocalizableStrings.YatchRentalExpansionPanel_title.Value" Value="Yatch Rental" />
 		</Items>

@@ -30,7 +30,7 @@
 
 		private bool ScriptTask1Execute(ProcessExecutingContext context) {
 			var esq = new EntitySchemaQuery(UserConnection.EntitySchemaManager, "UsrYacht");
-			var passengersCountColumn = esq.AddColumn("UsrPassengersCount");  // SELECT UsrPassengersCount as UsrPassengersCount, UsrPrice as UsrPrice FROM UsrYacht WHERE ...
+			var passengersCountColumn = esq.AddColumn("UsrPassangersNumber");  // SELECT UsrPassangersNumber as UsrPassangersNumber, UsrPrice as UsrPrice FROM UsrYacht WHERE ...
 			var priceColumn = esq.AddColumn("UsrPrice");
 			
 			Guid driveTypeId = Get<Guid>("DriveTypeIdParameter");
