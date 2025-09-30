@@ -53,7 +53,7 @@ define("UsrAverageTicketPricePage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function
 					"control": "$PageParameters_UsrTextParameter1_qfhc36h",
 					"multiline": true,
 					"visible": true,
-					"readonly": false,
+					"readonly": true,
 					"placeholder": "",
 					"tooltip": ""
 				},
